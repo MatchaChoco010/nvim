@@ -38,5 +38,8 @@ return {
         ]],
       },
     },
+    image = {
+      enable = true,
+    },
   },
 }
